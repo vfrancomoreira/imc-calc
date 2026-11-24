@@ -55,3 +55,7 @@ imc-calculadora/
 │   └── script.js        # Lógica do frontend (chamada à API)
 └── README.md
 ```
+
+## Contribuidores
+- **Limber Jhonathan** — Co-autor
+- **Vinicius Franco** — Co-autor
